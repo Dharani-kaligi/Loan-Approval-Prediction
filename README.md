@@ -155,6 +155,12 @@ Models tuned:
 | Recall | **98.82%** |
 | ROC-AUC | **0.8483** |
 
+## 📈 Model Comparison
+
+The shortlisted classification models were compared based on their prediction accuracy after hyperparameter tuning.
+
+![Model Comparison](images/model_comparison.png)
+
 ## ✅ Final Selected Model
 
 **Logistic Regression**
