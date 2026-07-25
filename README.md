@@ -251,18 +251,6 @@ Loan-Approval-Prediction/
 
 ---
 
-# 📌 Future Improvements
-
-- XGBoost
-- LightGBM
-- CatBoost
-- Explainable AI using SHAP
-- Streamlit Deployment
-- Flask REST API
-- Docker Containerization
-
----
-
 # 👨‍💻 Author
 
 ## Dharani Kaligi
