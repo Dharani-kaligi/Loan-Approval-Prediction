@@ -126,8 +126,6 @@ Models were evaluated using:
 - Accuracy
 - Precision
 - Recall
-- F1 Score
-- Confusion Matrix
 - ROC Curve
 - ROC-AUC Score
 
